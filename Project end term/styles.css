@@ -1,0 +1,38 @@
+body {
+    background-image: url(coronavirus-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS';
+    color: black;
+    background-color: blue;
+}
+
+#pop {
+    margin-left: 250px;
+}
+
+#input1,
+#input2,
+#input3 {
+    font-style: ;
+    border: 2px solid red;
+    margin-top: 90px;
+    margin-right: 60px;
+}
+
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', ' Calibri ', 'Trebuchet MS';
+    background-color: rgb(47, 177, 57);
+    margin-left: 37%;
+    margin-right: 30%;
+    margin-top: 40px;
+    color: white;
+}
+
+label {
+    font-size: xx-large;
+    color: yellow;
+}
